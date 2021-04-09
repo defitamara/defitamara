@@ -5,13 +5,13 @@
 <img align='right' src='https://github.com/defitamara/defitamara/blob/main/Assets/animasi_salam.gif' width='200"'>
 
 - 🔭 I'm currently studying computer science, but please don't ever ask me to fix your computer.
-- 😄 I am a beginner in programming
-- 🌱 I'm currently studying PHP and Laravel
-- 👯 I want to collaborate on all kinds of web and android developers
-- 🤔 I am looking for help for all kinds of web and android developers
-- 💬 Ask me about cartoons, books and math
+- 😄 I am a beginner in programming.
+- 🌱 I'm currently studying PHP and Laravel.
+- 👯 I want to collaborate on all kinds of web and android developers.
+- 🤔 I am looking for help for all kinds of web and android developers.
+- 💬 Ask me about cartoons, books and math.
 
-### Things i code with:
+### Code and application:
 
 <p>
   <img alt="Html" src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=flat-square" />
