@@ -1,8 +1,5 @@
 ![Header image](https://github.com/defitamara/defitamara/blob/main/Assets/Github_Header.png)
 
-<!--
-**defitamara/defitamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### About me:
 
 - 🔭 I'm currently studying computer science, but please don't ever ask me to fix your computer.
