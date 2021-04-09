@@ -1,9 +1,7 @@
-![Header image](https://raw.githubusercontent.com/defitamara/defitamara/master/Assets/GitHub_Header.png)
+![Header image](https://github.com/defitamara/defitamara/blob/main/Assets/Github_Header.png)
 
 <!--
 **defitamara/defitamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- Here are some ideas to get you started:
 
 ### About me:
 
