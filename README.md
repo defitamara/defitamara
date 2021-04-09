@@ -2,6 +2,8 @@
 
 ### About me:
 
+<img align='right' src='https://github.com/defitamara/defitamara/blob/main/Assets/animasi_salam.gif' width='200"'>
+
 - 🔭 I'm currently studying computer science, but please don't ever ask me to fix your computer.
 - 😄 I am a beginner in programming
 - 🌱 I'm currently studying PHP and Laravel
@@ -10,8 +12,6 @@
 - 💬 Ask me about cartoons, books and math
 
 ### Things i code with:
-
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 <p>
   <img alt="Html" src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=flat-square" />
@@ -23,4 +23,3 @@
   <img alt="Github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
